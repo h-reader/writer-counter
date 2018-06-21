@@ -1,0 +1,11 @@
+{
+  "name": "writer-counter",
+  "version": "1.0.0",
+  "description": "gijiroku writer counter",
+  "main": "index.js",
+  "author": "h-reader",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.13.0"
+  }
+}
